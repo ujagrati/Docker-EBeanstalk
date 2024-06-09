@@ -63,7 +63,7 @@ To clean up your AWS resources and avoid incurring charges:
 <pre><code>aws elasticbeanstalk delete-application --application-name 2048-app --terminate-env-by-force </code></pre>
 
 ## Reference Images
-![](URL_or_relative_path_to_image)
-![](URL_or_relative_path_to_image)
+![](1.png)
+![](2.png)
 
 
